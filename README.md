@@ -6,5 +6,5 @@ Labels and informations for CASIO fx-991CN CW calculator.
 ## labels.md
 Here are some of the gadgets that can be used in ROP.
 
-## keycode.png
+## keycode.jpeg
 Key codes.
